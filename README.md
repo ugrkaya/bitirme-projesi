@@ -1,9 +1,8 @@
-# BİTİRME PROJESİ
+# BİLGİSAYAR MÜHENDİSLİĞİ LİSANS BİTİRME PROJEM
 
 
 
-Bilgisayar Mühendisliği Lisans Bitirme Projem.
-
+PENTEST LAB ÜZERİNDE UYGULAMALI SIZMA TESTİ
 
 Bu tez siber güvenliğin alt çalışma alanlarından olan bilgi güvenliği, sızma testleri ve lab ortamında örnek bir sızma testinin gerçekleştirilmesiyle ilgilidir. Tezin amacı, siber güvenlik alanındaki Pentest (sızma) çalışmalarının incelenmesi ve laboratuvar ortamında sızma testi gerçekleştirmektir. Bu amaç doğrultusunda sızma testleri hakkında araştırma ve inceleme yapılmış, sızma testi türleri, yöntemleri, araçları ve metodolojileri hakkında bilgi verilmiştir. Son olarak makine üzerine sızma testi gerçekleştirilmiştir.
 Tezin ilk bölümünü olan giriş bölümünde siber güvenliğe özet olarak değinildikten sonra bilgi güvenliği unsurları hakkında bilgi verilmiştir. 
